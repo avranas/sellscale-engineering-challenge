@@ -1,0 +1,5 @@
+dist/
+node_modules
+src/server/__pycache__
+src/server/instance
+src/server/venv
