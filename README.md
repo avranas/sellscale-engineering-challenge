@@ -30,6 +30,10 @@ git clone https://github.com/avranas/sellscale-engineering-challenge.git
 > npm install
 ```
 
+```bash
+> pip install -r src/server/requirements.txt
+```
+
 ### Set up your .env files:
 
 FLASK_APP=src/server/app.py\
