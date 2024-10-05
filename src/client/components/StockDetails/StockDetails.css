@@ -1,0 +1,15 @@
+.buy-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.buy-container label {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.buy-container input {
+  max-width: 100px;
+  text-align: center;
+}

@@ -4,7 +4,7 @@ export default {
   },
   testEnvironment: 'jsdom',
   transformIgnorePatterns: ['/node_modules/'],
-  testMatch: ['<rootDir>/tests/**/*.test.ts'],
+  testMatch: ['<rootDir>/tests/**/*.test.tsx'],
   extensionsToTreatAsEsm: ['.ts'],
   moduleNameMapper: {
     '\\.(css|less)$': 'identity-obj-proxy',
